@@ -1,6 +1,6 @@
 # LOL Cat Clock
 ## Skillcrush Class JavaScript Project.
-### View the [live project here.](https://kirstendarling.github.io/lolcat-clock/)
+### View the [live project here.](https://kirstendarling.github.io/Lol-Cat-Clock/)
 
 ### Screenshot
 
